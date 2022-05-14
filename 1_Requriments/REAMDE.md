@@ -1,6 +1,6 @@
 # About Wiper Control System
 ## Discription
-* A wiper speed control framework for a car wiper controls the functional speed of a wiper as per downpour conditions. The control framework incorporates a downpour sensor (30) recognizing precipitation conditions to deliver . a simple sign having a plentifulness relying on the identified downpour conditions.
+* A wiper speed control framework for a car wiper controls the functional speed of a wiper as per downpour conditions. The control framework incorporates a downpour sensor recognizing precipitation conditions to deliver . a simple sign having a plentifulness relying on the identified downpour conditions.
 ---
 ## Identifying Features
 * It shall on the engine when the button is pressed once.
